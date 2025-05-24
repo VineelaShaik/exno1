@@ -16,8 +16,8 @@ STEP 4 : Save the Clean data to the file<br>
 STEP 5 : Remove outliers using IQR<br>
 STEP 6 : Use zscore of to remove outliers<br>
 ## PROGRAM:
-DEVELOPED BY : SHANMUGA RAJ.K <br>
-REG NO : 212223040192
+DEVELOPED BY : Vineela Shaik <br>
+REG NO : 212223040243
 ## CODING:
 ### Data Cleaning:
 
